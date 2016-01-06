@@ -4,11 +4,7 @@ This is a vim plugin for adding vim commands to utilize
 [thoughtbot's refills gem](http://github.com/thoughtbot/refills).
 
 For example, if you want to generate the hero refill you would run
-the following command in vim:
-
-```
-:RefillHero
-```
+the following command in vim: `:RefillHero`
 
 This will run the following command in your shell:
 
