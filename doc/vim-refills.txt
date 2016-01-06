@@ -1,0 +1,10 @@
+*vim-refills.txt*
+
+Vim Refills
+==========================
+
+Vim-refills allows you to use thoughtbot's refill gem from within vim.
+
+For example, running :RefillHero will execute:
+
+'rails generate refill:import hero' and return to vim.
