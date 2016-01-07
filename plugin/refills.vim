@@ -1,213 +1,213 @@
 function! RefillAccordionTabsMinimal()
-  !rails generate refills:import accordion-tabs-minimal
+  silent !rails generate refills:import accordion-tabs-minimal
 endfunction
 
 function! RefillAccordionTabs()
-  !rails generate refills:import accordion-tabs
+  silent !rails generate refills:import accordion-tabs
 endfunction
 
 function! RefillAccordion()
-  !rails generate refills:import accordion
+  silent !rails generate refills:import accordion
 endfunction
 
 function! RefillAnimateInfo()
-  !rails generate refills:import animate-info
+  silent !rails generate refills:import animate-info
 endfunction
 
 function! RefillAnimate()
-  !rails generate refills:import animate
+  silent !rails generate refills:import animate
 endfunction
 
 function! RefillBadges()
-  !rails generate refills:import badges
+  silent !rails generate refills:import badges
 endfunction
 
 function! RefillBreadCrumbs()
-  !rails generate refills:import breadcrumbs
+  silent !rails generate refills:import breadcrumbs
 endfunction
 
 function! RefillButtonGroup()
-  !rails generate refills:import button-group
+  silent !rails generate refills:import button-group
 endfunction
 
 function! RefillCards()
-  !rails generate refills:import cards
+  silent !rails generate refills:import cards
 endfunction
 
 function! RefillCenteredNavigation()
-  !rails generate refills:import centered-navigation
+  silent !rails generate refills:import centered-navigation
 endfunction
 
 function! RefillComment()
-  !rails generate refills:import comment
+  silent !rails generate refills:import comment
 endfunction
 
 function! RefillDevice()
-  !rails generate refills:import device
+  silent !rails generate refills:import device
 endfunction
 
 function! RefillDropdown()
-  !rails generate refills:import dropdown
+  silent !rails generate refills:import dropdown
 endfunction
 
 function! RefillExpander()
-  !rails generate refills:import expander
+  silent !rails generate refills:import expander
 endfunction
 
 function! RefillFadeIn()
-  !rails generate refills:import fade-in
+  silent !rails generate refills:import fade-in
 endfunction
 
 function! RefillFlashes()
-  !rails generate refills:import flashes
+  silent !rails generate refills:import flashes
 endfunction
 
 function! RefillFlexBoxes()
-  !rails generate refills:import flex-boxes
+  silent !rails generate refills:import flex-boxes
 endfunction
 
 function! RefillFooter2()
-  !rails generate refills:import footer-2
+  silent !rails generate refills:import footer-2
 endfunction
 
 function! RefillFooter()
-  !rails generate refills:import footer
+  silent !rails generate refills:import footer
 endfunction
 
 function! RefillGridItemsLines()
-  !rails generate refills:import grid-items-lines
+  silent !rails generate refills:import grid-items-lines
 endfunction
 
 function! RefillGridItems()
-  !rails generate refills:import grid-items
+  silent !rails generate refills:import grid-items
 endfunction
 
 function! RefillHero()
-  !rails generate refills:import hero
+  silent !rails generate refills:import hero
 endfunction
 
 function! RefillHoverTileAnimation()
-  !rails generate refills:import hover-tile-animation
+  silent !rails generate refills:import hover-tile-animation
 endfunction
 
 function! RefillIconBulletPoints()
-  !rails generate refills:import icon-bullet-points
+  silent !rails generate refills:import icon-bullet-points
 endfunction
 
 function! RefillImageGradientDynamic()
-  !rails generate refills:import image-gradient-dynamic
+  silent !rails generate refills:import image-gradient-dynamic
 endfunction
 
 function! RefillMaps()
-  !rails generate refills:import maps
+  silent !rails generate refills:import maps
 endfunction
 
 function! RefillModal()
-  !rails generate refills:import modal
+  silent !rails generate refills:import modal
 endfunction
 
 function! RefillNavigation()
-  !rails generate refills:import navigation
+  silent !rails generate refills:import navigation
 endfunction
 
 function! RefillPagination()
-  !rails generate refills:import pagination
+  silent !rails generate refills:import pagination
 endfunction
 
 function! RefillParallax()
-  !rails generate refills:import parallax
+  silent !rails generate refills:import parallax
 endfunction
 
 function! RefillProgressBarIndication()
-  !rails generate refills:import progress-bar-indication
+  silent !rails generate refills:import progress-bar-indication
 endfunction
 
 function! RefillProgressBar()
-  !rails generate refills:import progress-bar
+  silent !rails generate refills:import progress-bar
 endfunction
 
 function! RefillRibbon()
-  !rails generate refills:import ribbon
+  silent !rails generate refills:import ribbon
 endfunction
 
 function! RefillScrollOnPage()
-  !rails generate refills:import scroll-on-page
+  silent !rails generate refills:import scroll-on-page
 endfunction
 
 function! RefillSearchBar()
-  !rails generate refills:import search-bar
+  silent !rails generate refills:import search-bar
 endfunction
 
 function! RefillSearchTools()
-  !rails generate refills:import search-tools
+  silent !rails generate refills:import search-tools
 endfunction
 
 function! RefillSideImage()
-  !rails generate refills:import side-image
+  silent !rails generate refills:import side-image
 endfunction
 
 function! RefillSlidingMenu()
-  !rails generate refills:import sliding-menu
+  silent !rails generate refills:import sliding-menu
 endfunction
 
 function! RefillStats()
-  !rails generate refills:import stats
+  silent !rails generate refills:import stats
 endfunction
 
 function! RefillSwitch()
-  !rails generate refills:import switch
+  silent !rails generate refills:import switch
 endfunction
 
 function! RefillTablesMinimal()
-  !rails generate refills:import tables-minimal
+  silent !rails generate refills:import tables-minimal
 endfunction
 
 function! RefillTables()
-  !rails generate refills:import tables
+  silent !rails generate refills:import tables
 endfunction
 
 function! RefillTextureLegend()
-  !rails generate refills:import texture-legend
+  silent !rails generate refills:import texture-legend
 endfunction
 
 function! RefillTextures()
-  !rails generate refills:import textures
+  silent !rails generate refills:import textures
 endfunction
 
 function! RefillTooltip()
-  !rails generate refills:import tooltip
+  silent !rails generate refills:import tooltip
 endfunction
 
 function! RefillTypeSystemGeometric()
-  !rails generate refills:import type-system-geometric
+  silent !rails generate refills:import type-system-geometric
 endfunction
 
 function! RefillTypeSystemRounded()
-  !rails generate refills:import type-system-rounded
+  silent !rails generate refills:import type-system-rounded
 endfunction
 
 function! RefillTypeSystemSans()
-  !rails generate refills:import type-system-sans
+  silent !rails generate refills:import type-system-sans
 endfunction
 
 function! RefillTypeSystemSerif()
-  !rails generate refills:import type-system-serif
+  silent !rails generate refills:import type-system-serif
 endfunction
 
 function! RefillTypeSystemSlab()
-  !rails generate refills:import type-system-slab
+  silent !rails generate refills:import type-system-slab
 endfunction
 
 function! RefillTypeSystemTraditional()
-  !rails generate refills:import type-system-traditional
+  silent !rails generate refills:import type-system-traditional
 endfunction
 
 function! RefillVerticalTabs()
-  !rails generate refills:import vertical-tabs
+  silent !rails generate refills:import vertical-tabs
 endfunction
 
 function! RefillVideo()
-  !rails generate refills:import video
+  silent !rails generate refills:import video
 endfunction
 
 command! RefillAccordionTabsMinimal call RefillAccordionTabsMinimal()
