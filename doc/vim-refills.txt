@@ -98,7 +98,7 @@ see its implementation.
 --------------------------------------------------------------------------------
 2.1  RefillAccordionTabsMinimal~                    *RefillAccordionTabsMinimal*
 
-
+http://refills.bourbon.io/#accordion-tabs
 
 ------------------------------------------------------------------------------
                                                            *RefillAccordionTabs*
