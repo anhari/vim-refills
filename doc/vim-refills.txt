@@ -200,7 +200,7 @@ http://refills.bourbon.io/#flex-boxes
                                                                  *RefillFooter2*
 2.18 RefillFooter2~
 
-Fat footer.
+Skinny footer.
 
 http://refills.bourbon.io/#footer
 
@@ -208,7 +208,7 @@ http://refills.bourbon.io/#footer
                                                                   *RefillFooter*
 2.19 RefillFooter~
 
-Skinny footer.
+Fat footer.
 
 http://refills.bourbon.io/#footer
 
