@@ -95,6 +95,10 @@ Also, all components are linked below. Simply place your cursor over a link and
 press 'gx' to be navigated directly to the component in your browser so you can
 see its implementation.
 
+Note: some refills are grouped within a container with the same ID on the
+refills website. Therefore, in some cases you have to scroll a bit to see the
+actual refill you are looking for.
+
 --------------------------------------------------------------------------------
 2.1  RefillAccordionTabsMinimal~                    *RefillAccordionTabsMinimal*
 
