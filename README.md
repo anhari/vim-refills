@@ -12,6 +12,14 @@ This will run the following command in your shell:
 rails generate refills:import hero
 ```
 
+## Help documentation
+
+The help file (accessed via `:help vim-refills`) now contains anchor links to
+each refill. Navigate to them in your browser via placing your cursos on the
+link and typing **gx**.
+
+## Using refills after they have been generated
+
 If you deleted stylesheet sprocket directives you will have to either
 require the entire refills directory:
 
