@@ -1,4 +1,4 @@
-#vim-refills
+# vim-refills
 
 This is a vim plugin for adding vim commands to utilize
 [thoughtbot's refills gem](http://github.com/thoughtbot/refills).
