@@ -79,7 +79,7 @@ vim-refills. Any feedback is appreciated. :)
 
 [1] https://github.com/thoughtbot/refills
 [2] https://thoughtbot.com
-[3] https://github.com/michaelanhari/vim-refills
+[3] https://github.com/anhari/vim-refills
 
 ==============================================================================
 USAGE (2)                                                           *Usage*
